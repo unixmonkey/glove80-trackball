@@ -25,9 +25,13 @@ So I bought the Glove80, and a 3d printer, and got to work. This is helping me, 
 
 The internals are meant to be laid out like this:
 
-<img width="250" src="https://github.com/user-attachments/assets/a0eda7b7-9e3c-4f9b-ac82-552a1bf7dc54">
+<img width="350" src="https://github.com/user-attachments/assets/a0eda7b7-9e3c-4f9b-ac82-552a1bf7dc54">
 
-However, the tolerances aren't great right now, and I ended up just hot-gluing the parts to the top shell. If you can help make this better, please create a Pull request or issue to discuss.
+However, the tolerances aren't great right now, and I ended up just hot-gluing the parts to the top shell, similar to this (earlier shell version pictured):
+
+<img width="350" src="https://github.com/user-attachments/assets/b254c3e7-88ef-43cb-8a7b-13cf7ffdab13">
+
+If you can help make this better, please create a Pull request or issue to discuss.
 
 If you find that the included ribbon cables are too short, first swap them and use the longer one. Otherwise, [these](https://www.amazon.com/dp/B07RWTFSG7) replacement ones work, and are much longer.
 
