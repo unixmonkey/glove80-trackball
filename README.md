@@ -37,6 +37,20 @@ If you can help make this better, please create a Pull request or issue to discu
 
 If you find that the included ribbon cables are too short, first swap them and use the longer one. Otherwise, [these](https://www.amazon.com/dp/B07RWTFSG7) replacement ones work, and are much longer.
 
+## Glove80 mouse-keys configuration
+
+Because the trackball we've just printed doesn't have the mouse buttons wired up, we probably want to map some keys on the Glove80 to act as mouse buttons.
+I've setup the 2 right and bottom-most thumb keys to act as mouse buttons in [my layout](https://my.glove80.com/#/layout/user/2e9038ef-1ab4-45dc-9edd-4a34c662d1fc) by assigning them to the "CUSTOM" behavior with `&mkp MB1` for left-click and `&mkp MB2` for right-click (I did not setup middle-click).
+
+![thumb-buttons](https://github.com/user-attachments/assets/51838a18-f06e-4d03-8430-dec2b59a7873)
+
+It is not at all necessary, but you might consider setting up a "mouse" layer like mine above, now that you will be building a firmware capable of emulating a mouse, you might want to take advantage of that.
+
+By default, the MoErgo editor does not build a ZMK firmware with mouse support, so after saving your changes, but before building the firmware, go to "settings" at the top, and change the firmware to "community.pr23.mouse-keys.20240223.113355" or the modern equivalent you see there. One day, ZMK should merge mouse support into main, and this step may not be needed any longer.
+![mouse-pr](https://github.com/user-attachments/assets/9fc0f0fd-7894-47cb-8bb1-e3797d4ec1f4)
+
+Once you flash your Glove80 with the new firmware, these keys should act as mouse buttons.
+
 ## TODO
 
 - Fix the bottom plate so all the parts fit as expected, and the power switch is accessible
