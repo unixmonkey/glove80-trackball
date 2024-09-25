@@ -27,7 +27,11 @@ The internals are meant to be laid out like this:
 
 <img width="350" src="https://github.com/user-attachments/assets/a0eda7b7-9e3c-4f9b-ac82-552a1bf7dc54">
 
-However, the tolerances aren't great right now, and I ended up just hot-gluing the parts to the top shell, similar to this (earlier v6 shell version pictured):
+However, the tolerances aren't great right now, and I ended up just hot-gluing the parts to the top shell.
+
+Also included in the models dir, is this earlier (v6) model:
+
+<img width="350" src="https://github.com/user-attachments/assets/901ff422-82c7-4af7-930e-33f292bd5adc">
 
 <img width="350" src="https://github.com/user-attachments/assets/b254c3e7-88ef-43cb-8a7b-13cf7ffdab13">
 
