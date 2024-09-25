@@ -27,9 +27,11 @@ The internals are meant to be laid out like this:
 
 <img width="350" src="https://github.com/user-attachments/assets/a0eda7b7-9e3c-4f9b-ac82-552a1bf7dc54">
 
-However, the tolerances aren't great right now, and I ended up just hot-gluing the parts to the top shell, similar to this (earlier shell version pictured):
+However, the tolerances aren't great right now, and I ended up just hot-gluing the parts to the top shell, similar to this (earlier v6 shell version pictured):
 
 <img width="350" src="https://github.com/user-attachments/assets/b254c3e7-88ef-43cb-8a7b-13cf7ffdab13">
+
+This one has a more accurate ball hole, but needed a little cutting around the inner mount and above the "6" key to fit properly.
 
 If you can help make this better, please create a Pull request or issue to discuss.
 
